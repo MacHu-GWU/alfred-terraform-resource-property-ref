@@ -1,4 +1,4 @@
-PyYAML==5.3
+PyYAML==5.4
 Markdown==3.3.4
 markdown-full-yaml-metadata==2.0.2
 pathlib_mate==1.0.1
